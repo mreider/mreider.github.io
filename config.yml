@@ -1,14 +1,11 @@
 baseURL: https://there-and-back.org/
 languageCode: en-us
-title: There and back
+title: There and Back
 theme: "papermod"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-module:
-  imports:
-  - path: github.com/adityatelange/hugo-PaperMod
 minify:
   disableXML: true
   minifyOutput: true
@@ -26,7 +23,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: false
+  ShowWordCount: true
   ShowRssButtonInSectionTermList: false
   UseHugoToc: false
   disableSpecial1stPost: true
@@ -46,20 +43,20 @@ params:
   profileMode:
     enabled: true
     title: "Welcome" # optional default will be site title
-    subtitle: "Our family's writing and photography"
+    subtitle: "Our family's writing & photography"
     imageUrl: "images/truck.png" # optional
     imageWidth: 150 # custom size
     imageHeight: 150 # custom size
     buttons:
-        - name: Deb Green
+        - name: Deborah Green
           url: "/people/deb-green"
         - name: Janet Reider
-          url: "/people/matt-reider"
+          url: "/people/janet-reider"
         - name: Jenny Sampson
           url: "/people/jenny-sampson"
         - name: Pete Reider
           url: "/people/pete-reider"    
-        - name: Pete Reider
+        - name: Matt Reider
           url: "/people/matt-reider"   
 menu:
   main:
@@ -67,7 +64,3 @@ menu:
       name: people
       url: /people/
       weight: 1
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 2
