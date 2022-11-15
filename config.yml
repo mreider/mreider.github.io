@@ -1,7 +1,7 @@
 baseURL: https://there-and-back.org/
 languageCode: en-us
 title: There and back
-theme: "PaperMod"
+theme: "papermod"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
