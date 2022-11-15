@@ -51,3 +51,27 @@ Here are some pictures of stuff we've done in the last year - most recent pics f
 
 ![Alison and I in Brugge](/images/matt/travel-blog/30562F10-196B-4C29-9317-DBBC09B1CE5C_1_105_c.jpeg)
 
+## Visit with grandparents in New York
+
+![Visit with grandparents in NY](/images/matt/travel-blog/DF3C1BA7-77AD-4892-A743-4B22723A70ED_1_105_c.jpeg)
+
+## Up to our necks in Costa Rica
+
+![Up to our necks in Costa Rica](/images/matt/travel-blog/226F8FD8-BB0C-4BC6-AAAF-6B923C23DC4C_1_105_c.jpeg)
+
+## Back with Rosie and Zack
+
+![Back with Rosie and Zack](/images/matt/travel-blog/868A093D-A275-42A6-9A93-BFF710369B64_1_105_c.jpeg)
+
+## A poker reunion in California
+
+![A poker reunion in California](/images/matt/travel-blog/8905C42E-CB20-4260-BE5C-76777F136C55_1_105_c.jpeg)
+
+## Our last hike in Linz
+
+![Our last hike in Linz](/images/matt/travel-blog/9F5C4A3A-ADAC-4C8B-A6FB-F1B368FEB266_1_105_c.jpeg)
+
+## A walk up to Linz Tower
+
+![A walk up to Linz Tower](/images/matt/travel-blog/69F87CA9-D5DE-48AD-8431-0B6F518DB307_1_105_c.jpeg)
+
