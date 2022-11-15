@@ -6,6 +6,9 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
 minify:
   disableXML: true
   minifyOutput: true
