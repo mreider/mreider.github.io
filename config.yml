@@ -6,10 +6,14 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+enableEmoji: true
 minify:
   disableXML: true
   minifyOutput: true
 params:
+  socialIcons:
+        - name: Rss
+          url: "index.xml"
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: There and back
   description: "A family's writing and photography"
@@ -19,11 +23,11 @@ params:
   defaultTheme: light # dark, light
   disableThemeToggle: true
   ShowReadingTime: false
-  ShowShareButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: false
   UseHugoToc: false
   disableSpecial1stPost: true
@@ -50,17 +54,19 @@ params:
     buttons:
         - name: Deborah Green
           url: "/people/deb-green"
+        - name: Pete Reider
+          url: "/people/pete-reider"  
         - name: Janet Reider
           url: "/people/janet-reider"
         - name: Jenny Sampson
           url: "/people/jenny-sampson"
-        - name: Pete Reider
-          url: "/people/pete-reider"    
         - name: Matt Reider
-          url: "/people/matt-reider"   
+          url: "/people/matt-reider"
+        - name: Charlotte Reider-Smith
+          url: "/people/charlotte-reider-smith"  
 menu:
   main:
-    - identifier: people
-      name: people
+    - identifier: 👩‍👧‍👦
+      name: 👩‍👧‍👦
       url: /people/
       weight: 1
