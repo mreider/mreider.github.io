@@ -15,9 +15,9 @@ params:
         - name: Rss
           url: "index.xml"
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: There and back
-  description: "A family's writing and photography"
-  keywords: [Janet Reider, Matthew Reider, Deborah Green]
+  title: mdr50.eu
+  description: "Matt Reider's blog"
+  keywords: [Matt Reider]
   # author: ["Me", "You"] # multiple authors
   DateFormat: "January 2, 2006"
   defaultTheme: light # dark, light
@@ -37,6 +37,28 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-  taxonomies:
-    post: posts
+  homeInfoParams:
+    Title: "Welcome"
+    Content: Matt's blog
+    cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+  profileMode:
+    enabled: true
+    title: "Matt's blog" # optional default will be site title
+    imageUrl: "images/me.png" # optional
+    imageWidth: 150 # custom size
+    imageHeight: 150 # custom size
+    buttons:
+        - name: Travel posts
+          url: "/posts/travel"
+        - name: Other writing
+          url: "/posts/writing"
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 1
   
