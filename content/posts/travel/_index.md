@@ -1,6 +1,6 @@
 ---
 title: "Travel blog"
-url: /people/matt-reider/travel
+url: /posts/travel
 weight: 1
 ---
 

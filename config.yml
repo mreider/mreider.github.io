@@ -1,6 +1,6 @@
-baseURL: https://there-and-back.org/
+baseURL: https://mdr50.eu/
 languageCode: en-us
-title: There and Back
+title: mdr50.eu
 theme: "papermod"
 enableRobotsTXT: true
 buildDrafts: false
@@ -37,36 +37,6 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-  homeInfoParams:
-    Title: "Welcome"
-    Content: Our family's writing and photography.
-    cover:
-    hidden: false # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
-    hiddenInSingle: false # hide on single page
-  profileMode:
-    enabled: true
-    title: "Welcome" # optional default will be site title
-    subtitle: "Our family's writing & photography"
-    imageUrl: "images/truck.png" # optional
-    imageWidth: 150 # custom size
-    imageHeight: 150 # custom size
-    buttons:
-        - name: Deborah Green
-          url: "/people/deb-green"
-        - name: Pete Reider
-          url: "/people/pete-reider"  
-        - name: Janet Reider
-          url: "/people/janet-reider"
-        - name: Jenny Sampson
-          url: "/people/jenny-sampson"
-        - name: Matt Reider
-          url: "/people/matt-reider"
-        - name: Charlotte Reider-Smith
-          url: "/people/charlotte-reider-smith"  
-menu:
-  main:
-    - identifier: 👩‍👧‍👦
-      name: 👩‍👧‍👦
-      url: /people/
-      weight: 1
+  taxonomies:
+    post: posts
+  

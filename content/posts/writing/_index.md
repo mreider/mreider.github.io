@@ -1,6 +1,6 @@
 ---
 title: "Other thoughts"
-url: /people/matt-reider/writing
+url: /posts/writing
 ---
 
 There's nothing here (yet) 😃
