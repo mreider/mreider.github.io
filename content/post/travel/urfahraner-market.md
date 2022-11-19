@@ -1,12 +1,9 @@
 ---
 title: Urfahraner Market
-cover:
-  image: "images/matt/travel-blog/1_8T0IaO9W5cPuWayUxhvOag.jpeg"
-  width: 700px
-  height: 525px
-  hiddenInList: false
 date: "2019-10-07"
 ---
+
+![Market](/images/matt/travel-blog/1_8T0IaO9W5cPuWayUxhvOag.jpeg)
 
 We visited the Urfahraner market on Saturday. A market it isn’t. More like a county fair. We were joined by new friends. Thank God Alison is good at making them. Without her we’d be very bored. And thank goodness these befriended friends are fun. Incriminating evidence to follow.
 

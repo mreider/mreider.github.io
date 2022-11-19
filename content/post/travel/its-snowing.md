@@ -1,12 +1,9 @@
 ---
 title: It's snowing
-cover:
-  image: "images/matt/travel-blog/1_YHQ75Z7fSQ8Sq2cBYUZ_Qw.png"
-  width: 700px
-  height: 707px
-  hiddenInList: false
 date: "2019-12-02"
 ---
+
+![Snowing](/images/matt/travel-blog/1_YHQ75Z7fSQ8Sq2cBYUZ_Qw.png)
 
 Snow is falling in Linz today. This makes the kids very happy. I put on some ski gear and rode my bike to work along with dozens of other folks.
 
@@ -16,7 +13,7 @@ Linz has three different Christmas markets within a half mile radius. Main squar
 
 We went to a Christmas gospel thing at the cathedral last weekend. The lead singer spoke fluent German, which the audience loved. He must have some link to Austria — he’s been doing this every year for over a decade.
 
-![Venice](/images/matt/travel-blog/image-7.png)
+![cathedral](/images/matt/travel-blog/image-7.png)
 
 The next day we went to a little party hosted at our friends’ house. They’re also from the Bay Area. I tried to speak some German with their neighbors, but it’s not happening. We stuck with English.
 

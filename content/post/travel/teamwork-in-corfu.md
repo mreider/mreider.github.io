@@ -1,13 +1,9 @@
 ---
 title: Teamwork in Corfu
-cover:
-  image: "images/matt/travel-blog/1_l2i7EqauON04D-pjr9b1gQ-1.jpeg"
-  width: 700px
-  height: 525px
-  hiddenInList: false
-  hiddenInSingle: true
 date: "2020-09-06"
 ---
+
+![Teamwork](/images/matt/travel-blog/1_l2i7EqauON04D-pjr9b1gQ-1.jpeg)
 
 I learned some important things during our vacation in Corfu. Wasps don’t like smoke. Google maps can tell you to drive in circles. Jacques Cousteau invented scuba diving.
 

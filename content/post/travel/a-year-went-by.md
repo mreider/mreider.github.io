@@ -1,13 +1,9 @@
 ---
 title: A Year Went By
-cover:
-  image: "images/matt/travel-blog/94797BC5-3A6A-4043-87CC-280B876F7D93_1_105_c.jpeg"
-  width: 512px
-  height: 384px
-  hiddenInList: false
-  hiddenInSingle: true
 date: "2022-03-10"
 ---
+
+![a year went by](/images/matt/travel-blog/94797BC5-3A6A-4043-87CC-280B876F7D93_1_105_c.jpeg)
 
 I stopped writing over a year ago. Not sure why. Wasn't feeling it.
 

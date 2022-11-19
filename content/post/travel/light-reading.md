@@ -1,10 +1,5 @@
 ---
 title: Some Light Reading in Linz
-cover:
-  image: "images/matt/travel-blog/d04.jpeg"
-  width: 450px
-  height: 296px
-  hiddenInList: false
 date: "2019-09-30"
 ---
 

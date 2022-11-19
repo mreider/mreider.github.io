@@ -1,13 +1,9 @@
 ---
 title: The Everything Animal
-cover:
-  image: "images/matt/travel-blog/0_cvAPXYQPV4j3iuon.jpeg"
-  width: 456px
-  height: 280px
-  hiddenInList: false
-  hiddenInSingle: true
 date: "2019-09-12"
 ---
+
+![Wunderwuzzi](/images/matt/travel-blog/0_cvAPXYQPV4j3iuon.jpeg)
 
 We are ahead of ourselves. We want to be here in April 2020, not September. In April 2020 the kids will take the tram by themselves. They will have strong friendships. Alison and I will understand the healthcare system, and know enough German to order a sandwich without having to point.
 

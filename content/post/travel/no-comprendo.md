@@ -1,12 +1,10 @@
 ---
 title: No Comprendo
-cover:
-  image: "images/matt/travel-blog/1_WbN2xQeq8ianZrJjuSXl-g@2x.jpeg"
-  width: 700px
-  height: 466px
-  hiddenInList: false
 date: "2019-08-31"
 ---
+
+
+![No comprendo](/images/matt/travel-blog/1_WbN2xQeq8ianZrJjuSXl-g@2x.jpeg)
 
 I can’t understand a word these people are saying. I do understand them on other levels. They stack wood like it’s an art form. I am sure I would do the same, if I had wood to stack. Their toilets have a little shelf so they can examine their poop. I have similar interests. They have a sensitive nose for mustard, which is my favorite condiment, and maybe my favorite food. Anyone that has lived with me knows I put it on everything. They have little shame, especially about their bodies, and change into their bathing suits without the need for privacy. My fella was happily liberated as I slipped on my swim trunks
 

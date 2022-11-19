@@ -1,13 +1,9 @@
 ---
 title: Going Viral
-cover:
-  image: "images/matt/travel-blog/champlain.png"
-  width: 599px
-  height: 512px
-  hiddenInList: false
-  hiddenInSingle: true
 date: "2022-08-24"
 ---
+
+![champlain](/images/matt/travel-blog/champlain.png)
 
 Summer vacation was a three-part trip. First was Long Island to celebrate Marty's 80th birthday. Second was Vermont to join Rosie and Zach's wedding. Then Portugal, with #friends4life Schwartzberg clan.
 

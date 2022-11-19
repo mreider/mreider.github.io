@@ -1,13 +1,9 @@
 ---
 title: More than 20 Questions
-cover:
-  image: "images/matt/travel-blog/praguish.jpeg"
-  width: 720px
-  height: 540px
-  hiddenInList: false
-  hiddenInSingle: true
 date: "2022-04-18"
 ---
+
+![Praguish](/images/matt/travel-blog/praguish.jpeg)
 
 Last week we took an American style road trip (🚙) through the Czech Republic. Originally we were thinking about Holland. Also Norway. But we procrastinated and airfares went up. So we decided to drive North.
 

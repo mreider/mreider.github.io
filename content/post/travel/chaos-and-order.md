@@ -1,12 +1,9 @@
 ---
 title: Chaos and Order
-cover:
-  image: "images/matt/travel-blog/Yin_yang.svg.png"
-  width: 350px
-  height: 350px
-  hiddenInList: false
 date: "2019-10-23"
 ---
+
+![Yin Yang](/images/matt/travel-blog/Yin_yang.svg.png)
 
 We had special guests last weekend. Alison’s sister, Felice, and her friend Danielle. We poked around Linz together, and visited Salzburg for a day. It was fun.
 
