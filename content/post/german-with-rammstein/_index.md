@@ -15,7 +15,7 @@ Want to learn German with Rammstein?
 
 2. Now that you've watched the whole concert, and you're feeling it for Rammstein, let's go deeper. Read their history, both on [their official site](https://www.rammsteinworld.com/en/rammstein/history), and on [Wikipedia](https://en.wikipedia.org/wiki/Rammstein). Search around for interviews. I liked [this one](https://www.youtube.com/watch?v=TpMqLqEMdtI) with Richard Kruspe, their lead guitarist.
 
-3. Now it's time to learn each song in the set. One, by one, by one, over two or three months. I broke each of these songs into their own pages below with official videos embedded. I also linked to the official lyrics on their website.
+3. Now it's time to learn each song in the set - one by one over the next few weeks. I link to each song at the bottom with official videos and lyrics.
 
 Here's how you'll do this:
 
@@ -24,15 +24,19 @@ Here's how you'll do this:
 
 - Start with the first song in the list, [Reise Reise]({{< ref "/post/german-with-rammstein/reise-reise.md" >}}). Read the idea of the song. Read the lyrics. Watch the video.
 
+<br>
 
 - Download the song to your phone or just use [the concert set spotify playlist](https://open.spotify.com/playlist/16W9Rnd9uVxJMbHzrJC4ol?si=a85fe4717cb541ff). First song is Reise Reise.
 
+<br>
 
 - Over the next few days you'll memorize this song. Just keep listening. Over and over. Walk the dog with it. Workout with it. Learn it and love it. Make sure to look at the words as you listen so you know exactly what they're saying. Mouth those words, sing them, until you know the song by heart.
 
+<br>
 
 - Now that you know the song, it's time to look at the translation of the song. So far English hasn't really mattered, which is a good thing. Now it matters. Listen again, singing the German, and see what the words actually mean. Great. The idea, now, is to use those words here and there, with friends or family, just for fun. In my case that's easy. I live in Austria. But you can pull some German out at work, in times when it makes sense. People will look at you funny, but when you explain, they'll smile and think you're cool.
 
+<br>
 
 - When you're ready to move to the second song, go for it, repeating the same process as before. Eventually you'll pick up a fair amount of German, and a life-long appreciation for one of the best German speaking heavy metal bands in history.
 
