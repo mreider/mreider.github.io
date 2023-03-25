@@ -55,6 +55,8 @@ params:
           url: "/posts/travel"
         - name: Other writing
           url: "/posts/writing"
+        - name: German with Rammstein
+          url: "/posts/german-with-rammstein"
 menu:
   main:
     - identifier: posts
