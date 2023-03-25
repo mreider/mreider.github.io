@@ -1,11 +1,11 @@
 ---
 title: "Reise Reise"
-weight: 1
+weight: 2
 ---
 
 ## Lyrics and translation
 
-[https://www.rammsteinworld.com/en/lyrics/translations/reise-reise#reise-reise](https://www.rammsteinworld.com/en/lyrics/translations/reise-reise#reise-reise)
+[Lyrics for Reise Reise](https://www.rammsteinworld.com/en/lyrics/translations/reise-reise#reise-reise)
 
 ## Video
 

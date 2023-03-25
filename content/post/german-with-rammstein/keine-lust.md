@@ -1,6 +1,6 @@
 ---
 title: "Keine Lust"
-weight: 3
+weight: 4
 ---
 
 ## Lyrics and translation
