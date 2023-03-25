@@ -7,7 +7,7 @@ url: /posts/german-with-rammstein
 
 German is hard. Also, I'm lazy.
 
-Let's take a different tack. Rammstein. Unlike other German heavy metal bands, their lyrics are almost always in German. And their lyrics are awesome.
+Let's take a different tack. Rammstein. Sure, it's not everyday German. But we'll learn a few words while we enjoy ourselves.
 
 Want to learn German with Rammstein?
 
