@@ -13,14 +13,17 @@ Want to learn German with Rammstein?
 
 1. Start by watching Rammstein's 2005 concert in Nimes, France. It's one of their best shows ever. Watch the whole thing straight through, minus the final penultimate song as it's a Depeche Mode cover, and in English. You can search for the concert on YouTube, but most are taken down for copyright violations. The same concert was published as a DVD under the title [Vökerball, in 2006, and is available for $36 from the official Rammstein website](https://shop.rammstein.de/en/catalog/visuals-sounds/dvd-blu-ray/rammstein-volkerball-dvd-special-edition.html).
 
+<br>
+
 2. Now that you've watched the whole concert, and you're feeling it for Rammstein, let's go deeper. Read their history, both on [their official site](https://www.rammsteinworld.com/en/rammstein/history), and on [Wikipedia](https://en.wikipedia.org/wiki/Rammstein). Search around for interviews. I liked [this one](https://www.youtube.com/watch?v=TpMqLqEMdtI) with Richard Kruspe, their lead guitarist.
+
+<br>
 
 3. Now it's time to learn each song in the set - one by one over the next few weeks. I link to each song at the bottom with official videos and lyrics.
 
 Here's how you'll do this:
 
-<hr>
-
+<br>
 
 - Start with the first song in the list, [Reise Reise]({{< ref "/post/german-with-rammstein/reise-reise.md" >}}). Read the idea of the song. Read the lyrics. Watch the video.
 
