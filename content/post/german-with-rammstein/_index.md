@@ -17,7 +17,7 @@ Want to learn German with Rammstein?
 
 3. Now it's time to learn each song in the set. One, by one, by one, over two or three months. I broke each of these songs into their own pages below with official videos embedded. I also linked to the official lyrics on their website. 
 
-Here's how this'll work:
+Here's how you'll do this:
 
 <hr>
 
