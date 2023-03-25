@@ -15,13 +15,15 @@ Want to learn German with Rammstein?
 
 2. Now that you've watched the whole concert, and you're feeling it for Rammstein, let's go deeper. Read their history, both on [their official site](https://www.rammsteinworld.com/en/rammstein/history), and on [Wikipedia](https://en.wikipedia.org/wiki/Rammstein). Search around for interviews. I liked [this one](https://www.youtube.com/watch?v=TpMqLqEMdtI) with Richard Kruspe, their lead guitarist.
 
-3. Now it's time to learn each song in the set. One, by one, by one, over two or three months. I broke each of these songs into their own pages below with official videos embedded. I also linked to the official lyrics on their website. 
+3. Now it's time to learn each song in the set. One, by one, by one, over two or three months. I broke each of these songs into their own pages below with official videos embedded. I also linked to the official lyrics on their website.
 
 Here's how you'll do this:
 
 <hr>
 
-- Start with the first song in the list, [Reise Reise]({{< ref "/post/german-with-rammstein/reise-reise.md" >}}). Read the idea of the song. Read the lyrics. Watch the video. 
+- Start with the first song in the list, [Reise Reise]({{< ref "/post/german-with-rammstein/reise-reise.md" >}}). Read the idea of the song. Read the lyrics. Watch the video.
+
+- Download the song to your phone or just use [the concert set spotify playlist](https://open.spotify.com/playlist/16W9Rnd9uVxJMbHzrJC4ol?si=a85fe4717cb541ff). First song, of course, is Reise Reise.
 
 - Over the next few days you'll memorize this song. Just keep listening. Over and over. Walk the dog with it. Workout with it. Learn it and love it. Make sure to look at the words as you listen so you know exactly what they're saying. Mouth those words, sing them, until you know the song by heart.
 
