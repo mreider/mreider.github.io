@@ -23,7 +23,7 @@ Here's how you'll do this:
 
 - Start with the first song in the list, [Reise Reise]({{< ref "/post/german-with-rammstein/reise-reise.md" >}}). Read the idea of the song. Read the lyrics. Watch the video.
 
-- Download the song to your phone or just use [the concert set spotify playlist](https://open.spotify.com/playlist/16W9Rnd9uVxJMbHzrJC4ol?si=a85fe4717cb541ff). First song, of course, is Reise Reise.
+- Download the song to your phone or just use [the concert set spotify playlist](https://open.spotify.com/playlist/16W9Rnd9uVxJMbHzrJC4ol?si=a85fe4717cb541ff). First song is Reise Reise.
 
 - Over the next few days you'll memorize this song. Just keep listening. Over and over. Walk the dog with it. Workout with it. Learn it and love it. Make sure to look at the words as you listen so you know exactly what they're saying. Mouth those words, sing them, until you know the song by heart.
 
