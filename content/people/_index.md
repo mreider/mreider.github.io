@@ -1,4 +1,0 @@
----
-title: People
-ShowBreadCrumbs: false
----
